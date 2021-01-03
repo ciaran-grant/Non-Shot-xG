@@ -1,6 +1,8 @@
 # Non-Shot-xG
 Using a StatsBomb event based expected goals model with Metrica's tracking data to attribute non-shot-xG to every possession of each team.
 
+[Non-Shot xG](https://thelastmananalytics.home.blog/2021/01/03/28-quantifying-non-shot-chances/)
+
 ## Why do they matter?
 Goals, shots and expected goals are only counted if shots are actually taken.
 
